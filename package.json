@@ -2,7 +2,7 @@
   "name": "contactmanager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://akirakaneshiro.github.io/contactmanager_react",
+  "homepage": "https://AkiraKane.github.io/contactmanager_react",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
